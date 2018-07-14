@@ -1,7 +1,7 @@
 Rest Service Jar to run locally
 =====
 
-This is rest service jar that can be used to send GET, PUT or POST request. 
+This is a rest service jar that can be executed locally to test GET, PUT or POST etc request. 
 
 Download and Run following command
 
